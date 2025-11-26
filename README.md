@@ -1,2 +1,5 @@
 # LingoQuest-MVP-Backend
 Node.js (Express.js)	Chosen for its non-blocking I/O and speed, making it efficient for handling many simultaneous user requests (lessons, quizzes, gamification updates). Express provides a robust, minimal framework for building the API quickly, leveraging the JavaScript skills used in the frontend. MongoDB	A flexible NoSQL document database.  It's generally faster to set up for an MVP, easily handling the varied data structure of lessons, quizzes, flashcards, and user profiles. This aligns well with the speed of Node.js.
+
+Project Overview
+LingoQuest is a web-based foreign language learning platform designed to make acquiring new languages engaging, accessible, and effective, particularly for Nigerian students and professionals preparing to study, work, or travel abroad. The platform uses interactive lessons, gamified learning, and peer-to-peer collaboration to enhance motivation and retention. LingoQuest addresses the challenge of limited language learning tools in Nigeria and low engagement levels in traditional classroom settings.

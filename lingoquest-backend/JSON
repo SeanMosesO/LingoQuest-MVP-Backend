@@ -1,0 +1,44 @@
+{
+  "user_id": 12345,
+  "overall_completion_rate": 45.8,
+  "courses": [
+    {
+      "course_id": 101,
+      "title": "Intro to Web Development",
+      "enrollment_status": "active",
+      "course_progress_percentage": 75.0,
+      "modules_completed": 3,
+      "total_modules": 4,
+      "last_activity_date": "2025-11-25T14:30:00Z",
+      "next_lesson": {
+        "lesson_id": 401,
+        "title": "Working with APIs"
+      }
+    },
+    {
+      "course_id": 102,
+      "title": "Database Fundamentals",
+      "enrollment_status": "completed",
+      "course_progress_percentage": 100.0,
+      "modules_completed": 5,
+      "total_modules": 5,
+      "last_activity_date": "2025-10-15T10:00:00Z",
+      "next_lesson": null
+    }
+    
+  ],
+  "recent_activity": [
+    {
+      "activity_type": "lesson_completed",
+      "content_title": "Video: Data Normalization",
+      "course_title": "Database Fundamentals",
+      "timestamp": "2025-11-26T09:15:00Z"
+    },
+    {
+      "activity_type": "quiz_passed",
+      "content_title": "Quiz: HTML Basics",
+      "course_title": "Intro to Web Development",
+      "timestamp": "2025-11-25T16:45:00Z"
+    }
+  ]
+}

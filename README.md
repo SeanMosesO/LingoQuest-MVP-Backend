@@ -1,1 +1,2 @@
 # LingoQuest-MVP-Backend
+Node.js (Express.js)	Chosen for its non-blocking I/O and speed, making it efficient for handling many simultaneous user requests (lessons, quizzes, gamification updates). Express provides a robust, minimal framework for building the API quickly, leveraging the JavaScript skills used in the frontend. MongoDB	A flexible NoSQL document database.  It's generally faster to set up for an MVP, easily handling the varied data structure of lessons, quizzes, flashcards, and user profiles. This aligns well with the speed of Node.js.
